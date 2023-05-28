@@ -16,7 +16,7 @@ We use the dataset proposed in paper [55] and [56] to evaluate our proposed MAT-
 
 [56] K. Sankhe, M. Belgiovine, F. Zhou, S. Riyaz, S. Ioannidis, and K. Chowdhury, “ORACLE: Optimized radio classification through convolutional neural networks,” in IEEE Conf. Comput. Commun., Apr.2019, pp. 370-378.
 
-The ADS-B dataset can be downloaded from the Link: https://pan.baidu.com/s/13qW5mnfgUHBvWRid2tY2MA Passwd：eogv
+The ADS-B dataset can be downloaded from the Link: https://pan.baidu.com/s/13qW5mnfgUHBvWRid2tY2MA and password is eogv.
 
 The WiFi dataset can be downloaded from https://pan.baidu.com/s/1aah2mh9sJvtXs6XjKkxLZQ and password is biv8.
 In the WiFi dataset, we randomly select 3,080 samples from the original dataset (only 62 step) for simulation, and selection approach can be seen from the code Dataset/SplitData.py.
