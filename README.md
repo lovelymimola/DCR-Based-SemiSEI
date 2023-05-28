@@ -1,5 +1,5 @@
 # Semi-Supervised Specific Emitter Identification via Dual Consistency Regularization
-The code corresponds to the IoTJ paper
+The code corresponds to the accepted IoTJ paper.
 
 # Requirement
 pytorch 1.10.2
